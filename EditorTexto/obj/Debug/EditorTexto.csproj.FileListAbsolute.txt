@@ -1,0 +1,10 @@
+C:\Users\Prueba\source\repos\EditorTexto\EditorTexto\bin\Debug\EditorTexto.exe.config
+C:\Users\Prueba\source\repos\EditorTexto\EditorTexto\bin\Debug\EditorTexto.exe
+C:\Users\Prueba\source\repos\EditorTexto\EditorTexto\bin\Debug\EditorTexto.pdb
+C:\Users\Prueba\source\repos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.csproj.AssemblyReference.cache
+C:\Users\Prueba\source\repos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.frmEditor.resources
+C:\Users\Prueba\source\repos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.Properties.Resources.resources
+C:\Users\Prueba\source\repos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.csproj.GenerateResource.cache
+C:\Users\Prueba\source\repos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\source\repos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.exe
+C:\Users\Prueba\source\repos\EditorTexto\EditorTexto\obj\Debug\EditorTexto.pdb
